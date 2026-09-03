@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kseno
-- 👀 I’m interested in neuroscience, bioimaging and molecular biology
-- 🌱 I’m currently learning machine learning with python
-- 📫 How to reach me mornearin@gmail.com
+- Hi, I’m @Ksena
+- I’m interested in neuroscience, bioimaging and microscopy art
+- I’m currently learning bioimage analysis
+- Reach me on [Linkedin](https://www.linkedin.com/in/ksena-longrin/)
